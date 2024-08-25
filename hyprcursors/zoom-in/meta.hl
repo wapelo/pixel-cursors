@@ -1,0 +1,7 @@
+resize_algorithm = nearest
+hotspot_x = 0.31
+hotspot_y = 0.31
+
+define_size = 32, zoom-in-32.png
+define_size = 64, zoom-in-64.png
+

@@ -1,0 +1,7 @@
+resize_algorithm = nearest
+hotspot_x = 0.5
+hotspot_y = 0.5
+
+define_size = 32, bottom_side-32.png
+define_size = 64, bottom_side-64.png
+

@@ -1,0 +1,9 @@
+resize_algorithm = nearest
+hotspot_x = 0.0
+hotspot_y = 0.0
+
+define_size = 32, default-32.png
+define_size = 64, default-64.png
+
+define_override = left_ptr
+define_override = arrow

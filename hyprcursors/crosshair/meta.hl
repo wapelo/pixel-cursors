@@ -1,0 +1,8 @@
+resize_algorithm = nearest
+hotspot_x = 0.5
+hotspot_y = 0.5
+
+define_size = 32, crosshair-32.png
+define_size = 64, crosshair-64.png
+
+define_override = cross

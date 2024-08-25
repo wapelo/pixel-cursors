@@ -1,0 +1,11 @@
+resize_algorithm = nearest
+hotspot_x = 0.0
+hotspot_y = 0.0
+
+define_size = 32, copy-32.png
+define_size = 64, copy-64.png
+
+define_override = 6407b0e94181790501fd1e167b474872
+define_override = b66166c04f8c3109214a4fbd64a50fc8
+define_override = 1081e37283d90000800003c07f3ef6bf
+define_override = dnd-copy

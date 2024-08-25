@@ -1,0 +1,7 @@
+resize_algorithm = nearest
+hotspot_x = 0.0
+hotspot_y = 0.0
+
+define_size = 32, context-menu-32.png
+define_size = 64, context-menu-64.png
+

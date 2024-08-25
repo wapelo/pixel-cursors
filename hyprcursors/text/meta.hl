@@ -1,0 +1,9 @@
+resize_algorithm = nearest
+hotspot_x = 0.25
+hotspot_y = 0.5
+
+define_size = 32, text-32.png
+define_size = 64, text-64.png
+
+define_override = xterm
+define_override = ibeam
