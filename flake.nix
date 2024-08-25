@@ -27,7 +27,7 @@
       packages = eachSystem (system: {
         default = self.packages.${system}.pixel-cursors;
 
-        mcmojave-hyprcursor = inputs.nixpkgs.legacyPackages.${system}.callPackage ./nix {
+        pixel-cursors = inputs.nixpkgs.legacyPackages.${system}.callPackage ./nix {
           inherit hyprcursor;
         };
       });
